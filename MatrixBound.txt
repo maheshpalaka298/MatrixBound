@@ -10,7 +10,7 @@ class MatrixBound
 		int matrix[][];
 		Scanner sc=new Scanner(System.in);
 
-		System.out.println("Enter number of rows and Columns");
+		System.out.println("Enter number of rows and Cols");
 		row=sc.nextInt();
 		col=sc.nextInt();
 
