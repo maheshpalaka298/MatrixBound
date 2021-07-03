@@ -48,7 +48,7 @@ class MatrixBound
 
 //Output//
 
-Enter number of rows and Cols
+/*Enter number of rows and Cols
 4
 4
 Enter 16 elements
@@ -72,4 +72,4 @@ Enter 16 elements
 0 6 7 0
 0 1 2 0
 0 0 0 0
-Press any key to continue . . .
+Press any key to continue . . .*/
